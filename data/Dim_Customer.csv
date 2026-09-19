@@ -1,0 +1,251 @@
+CustomerID,CustomerName,Gender,Age,CustomerSegment,Country,State,City,PostalCode
+CUST-0001,"Alexander Khoury",Female,38,Corporate,United States,IL,Chicago,60601
+CUST-0002,"Nour Thomas",Male,48,Consumer,United States,NY,New York,10001
+CUST-0003,"Olivia Brown",Female,59,Corporate,United Arab Emirates,Dubai,Dubai,
+CUST-0004,"Ali Brown",Male,51,Consumer,United States,NY,New York,10001
+CUST-0005,"Lina El-Sayed ",Female,61,Corporate,United Kingdom,Greater Manchester,Manchester,M1 1AE
+CUST-0006,"John Al-Fassi",Male,52,Home Office,United States,TX,Houston,77001
+CUST-0007,"Benjamin Taylor",Female,53,Corporate,United Arab Emirates,Abu Dhabi,Abu Dhabi,
+CUST-0008,"Benjamin Wilson",Male,23,Corporate,United States,TX,Houston,77001
+CUST-0009,"Tarek Williams",Female,39,Corporate,United States,CA,Los Angeles,90001
+CUST-0010,"Daniel Wilson",Male,46,Consumer,United States,IL,Chicago,60601
+CUST-0011,"Khaled Harris",Female,47,Consumer,Saudi Arabia,Riyadh,Riyadh,12211
+CUST-0012,"John Haddad",Male,21,Consumer,United Arab Emirates,Abu Dhabi,Abu Dhabi,
+CUST-0013,"Mohamed Harris",Female,48,Consumer,Germany,Berlin,Berlin,10115
+CUST-0014,"Mariam Al-Ghamdi",Male,59,Consumer,Germany,Berlin,Berlin,10115
+CUST-0015,"Lina Taylor",Female,63,Corporate,United Arab Emirates,Abu Dhabi,Abu Dhabi,
+CUST-0016,"Omar Al-Ghamdi",Male,41,Home Office,Germany,Berlin,Berlin,10115
+CUST-0017,"Tarek Thomas",Female,34,Consumer,Germany,Berlin,Berlin,10115
+CUST-0018,"Daniel Wilson",Male,37,Consumer,United States,CA,Los Angeles,90001
+CUST-0019,"Mariam Williams",Female,41,Corporate,United Kingdom,Greater Manchester,Manchester,M1 1AE
+CUST-0020,"Ahmed Johnson ",Male,48,Home Office,Germany,Berlin,Berlin,10115
+CUST-0021,"Ahmed Al-Otaibi",Female,64,Home Office,United Kingdom,England,London,EC1A
+CUST-0022,"Ahmed Anderson",Male,65,Consumer,Saudi Arabia,Riyadh,Riyadh,12211
+CUST-0023,"John Davis",Female,37,Home Office,United States,CA,Los Angeles,90001
+CUST-0024,"Mia Jones",Male,55,Corporate,United States,CA,Los Angeles,90001
+CUST-0025,"Jessica Anderson",Female,30,Home Office,United States,IL,Chicago,60601
+CUST-0026,"Daniel Miller",Male,44,Consumer,United Arab Emirates,Abu Dhabi,Abu Dhabi,
+CUST-0027,"Alexander White",Female,42,Corporate,United States,NY,New York,10001
+CUST-0028,"Olivia Al-Otaibi",Male,49,Consumer,Germany,Berlin,Berlin,10115
+CUST-0029,"Sara El-Sayed",Female,21,Corporate,United States,IL,Chicago,60601
+CUST-0030,"Layla Al-Fassi",Male,69,Corporate,United States,TX,Houston,77001
+CUST-0031,"Nour Clark",Female,64,Home Office,United Arab Emirates,Dubai,Dubai,
+CUST-0032,"Sophia Jackson",Male,64,Home Office,Germany,Bavaria,Munich,80331
+CUST-0033,"Olivia Nasser",Female,68,Corporate,Germany,Berlin,Berlin,10115
+CUST-0034,"Olivia Ghanem",Male,51,Home Office,Jordan,Amman,Amman,11181
+CUST-0035,"William Wilson",Female,39,Corporate,United Arab Emirates,Abu Dhabi,Abu Dhabi,
+CUST-0036,"Mariam Thomas",Male,45,Consumer,Jordan,Amman,Amman,11181
+CUST-0037,"Nour Nasser",Female,42,Consumer,Germany,Bavaria,Munich,80331
+CUST-0038,"Nour Al-Fassi",Male,42,Home Office,United Arab Emirates,Abu Dhabi,Abu Dhabi,
+CUST-0039,"Fatima Jackson",Female,65,Consumer,Germany,Bavaria,Munich,80331
+CUST-0040,"Zainab Martin",Male,55,Consumer,Jordan,Amman,Amman,11181
+CUST-0041,"John Ghanem",Female,21,Consumer,United Arab Emirates,Abu Dhabi,Abu Dhabi,
+CUST-0042,"Emma Jones",Male,50,Home Office,United States,CA,Los Angeles,90001
+CUST-0043,"Jessica Al-Otaibi",Female,51,Home Office,United States,CA,Los Angeles,90001
+CUST-0044,"Daniel Taylor",Male,44,Consumer,United States,NY,New York,10001
+CUST-0045,"Lina Clark",Female,65,Consumer,Saudi Arabia,Riyadh,Riyadh,12211
+CUST-0046,"John Davis",Male,46,Consumer,Germany,Bavaria,Munich,80331
+CUST-0047,"John Ghanem",Female,45,Consumer,United Kingdom,England,London,EC1A
+CUST-0048,"Mia Jackson",Male,36,Home Office,United Kingdom,England,London,EC1A
+CUST-0049,"Olivia El-Sayed",Female,46,Corporate,United Arab Emirates,Dubai,Dubai,
+CUST-0050,"Jessica Davis",Male,32,Consumer,United States,CA,Los Angeles,90001
+CUST-0051,"William Ghanem",Female,26,Home Office,Germany,Bavaria,Munich,80331
+CUST-0052,"Benjamin Johnson",Male,23,Home Office,United Kingdom,England,London,EC1A
+CUST-0053,"Mariam Nasser",Female,23,Corporate,Germany,Bavaria,Munich,80331
+CUST-0054,"Tarek El-Sayed",Male,67,Corporate,United Arab Emirates,Abu Dhabi,Abu Dhabi,
+CUST-0055,"Alexander Johnson",Female,24,Corporate,United Kingdom,England,London,EC1A
+CUST-0056,"Ahmed Wilson",Male,30,Home Office,Germany,Bavaria,Munich,80331
+CUST-0057,"Omar Khoury",Female,48,Corporate,United States,IL,Chicago,60601
+CUST-0058,"Emma Davis",Male,41,Consumer,United States,IL,Chicago,60601
+CUST-0059,"Emily Wilson",Female,44,Consumer,United States,IL,Chicago,60601
+CUST-0060,"Mariam White",Male,67,Corporate,United States,NY,New York,10001
+CUST-0061,"James Thomas",Female,62,Corporate,United States,IL,Chicago,60601
+CUST-0062,"Benjamin Al-Ghamdi",Male,27,Home Office,United Arab Emirates,Abu Dhabi,Abu Dhabi,
+CUST-0063,"Jessica Clark",Female,70,Consumer,United States,TX,Houston,77001
+CUST-0064,"Mariam Johnson",Male,45,Consumer,United States,TX,Houston,77001
+CUST-0065,"Hassan El-Sayed",Female,34,Corporate,United Kingdom,England,London,EC1A
+CUST-0066,"Mariam Johnson",Male,25,Consumer,United States,TX,Houston,77001
+CUST-0067,"Emma Khoury",Female,66,Home Office,Jordan,Amman,Amman,11181
+CUST-0068,"Nour Taylor",Male,45,Consumer,United States,IL,Chicago,60601
+CUST-0069,"Mariam Nasser",Female,59,Corporate,Germany,Bavaria,Munich,80331
+CUST-0070,"Layla Johnson",Male,57,Corporate,United Kingdom,Greater Manchester,Manchester,M1 1AE
+CUST-0071,"Mia Harris",Female,54,Home Office,United States,CA,Los Angeles,90001
+CUST-0072,"William Ghanem",Male,69,Corporate,United Kingdom,England,London,EC1A
+CUST-0073,"Lina Mansour",Female,42,Corporate,United States,NY,New York,10001
+CUST-0074,"Fatima Jackson",Male,41,Consumer,United States,IL,Chicago,60601
+CUST-0075,"Mia Ghanem",Female,54,Home Office,Saudi Arabia,Riyadh,Riyadh,12211
+CUST-0076,"Tarek Ghanem",Male,35,Consumer,Saudi Arabia,Riyadh,Riyadh,12211
+CUST-0077,"Nour El-Sayed",Female,47,Consumer,Jordan,Amman,Amman,11181
+CUST-0078,"Ali Al-Ghamdi",Male,62,Consumer,United States,CA,Los Angeles,90001
+CUST-0079,"Benjamin Khoury",Female,43,Home Office,United Arab Emirates,Dubai,Dubai,
+CUST-0080,"Khaled Ghanem",Male,53,Corporate,United Arab Emirates,Dubai,Dubai,
+CUST-0081,"Youssef Nasser",Female,47,Home Office,United States,TX,Houston,77001
+CUST-0082,"David Clark",Male,69,Corporate,United States,NY,New York,10001
+CUST-0083,"Khaled Smith",Female,51,Corporate,Jordan,Amman,Amman,11181
+CUST-0084,"Hassan Khoury",Male,58,Corporate,Saudi Arabia,Riyadh,Riyadh,12211
+CUST-0085,"Ali White",Female,62,Home Office,Saudi Arabia,Riyadh,Riyadh,12211
+CUST-0086,"Daniel Harris",Male,27,Home Office,Jordan,Amman,Amman,11181
+CUST-0087,"Jessica Johnson",Female,69,Home Office,Germany,Bavaria,Munich,80331
+CUST-0088,"Tarek Williams",Male,66,Corporate,United Arab Emirates,Dubai,Dubai,
+CUST-0089,"Layla Jones",Female,24,Home Office,United Arab Emirates,Abu Dhabi,Abu Dhabi,
+CUST-0090,"Olivia Harris",Male,59,Corporate,United States,IL,Chicago,60601
+CUST-0091,"Alexander Brown",Female,52,Consumer,United Arab Emirates,Abu Dhabi,Abu Dhabi,
+CUST-0092,"William El-Sayed",Male,28,Home Office,United Arab Emirates,Abu Dhabi,Abu Dhabi,
+CUST-0093,"Lina Thomas",Female,44,Consumer,United States,NY,New York,10001
+CUST-0094,"John Miller",Male,67,Corporate,Germany,Berlin,Berlin,10115
+CUST-0095,"Alexander Nasser",Female,25,Home Office,United States,CA,Los Angeles,90001
+CUST-0096,"James Brown",Male,21,Consumer,United Kingdom,England,London,EC1A
+CUST-0097,"David Jackson",Female,60,Consumer,Germany,Bavaria,Munich,80331
+CUST-0098,"Robert Anderson",Male,44,Home Office,United Arab Emirates,Abu Dhabi,Abu Dhabi,
+CUST-0099,"Fatima El-Sayed",Female,63,Corporate,United Arab Emirates,Dubai,Dubai,
+CUST-0100,"Nour Khoury",Male,23,Consumer,United States,CA,Los Angeles,90001
+CUST-0101,"Hassan Nasser",Female,27,Corporate,United States,IL,Chicago,60601
+CUST-0102,"Khaled Mansour",Male,63,Home Office,United States,NY,New York,10001
+CUST-0103,"Mia Mansour",Female,40,Home Office,Germany,Bavaria,Munich,80331
+CUST-0104,"Emma Harris",Male,22,Consumer,United Kingdom,England,London,EC1A
+CUST-0105,"William Al-Ghamdi",Female,68,Consumer,United Kingdom,Greater Manchester,Manchester,M1 1AE
+CUST-0106,"Chloe Jackson",Male,65,Corporate,United Arab Emirates,Dubai,Dubai,
+CUST-0107,"Sara Harris",Female,23,Home Office,Jordan,Amman,Amman,11181
+CUST-0108,"Alexander Jones",Male,22,Corporate,United States,NY,New York,10001
+CUST-0109,"Jessica Harris",Female,48,Home Office,United Kingdom,Greater Manchester,Manchester,M1 1AE
+CUST-0110,"Layla Jackson",Male,68,Corporate,United Kingdom,Greater Manchester,Manchester,M1 1AE
+CUST-0111,"Sophia Taylor",Female,51,Consumer,United States,CA,Los Angeles,90001
+CUST-0112,"Olivia Brown",Male,23,Consumer,Germany,Bavaria,Munich,80331
+CUST-0113,"David Smith",Female,36,Consumer,United Kingdom,Greater Manchester,Manchester,M1 1AE
+CUST-0114,"Omar El-Sayed",Male,32,Consumer,United States,TX,Houston,77001
+CUST-0115,"Fatima Haddad",Female,53,Consumer,Germany,Berlin,Berlin,10115
+CUST-0116,"Youssef Haddad",Male,25,Consumer,Germany,Bavaria,Munich,80331
+CUST-0117,"Emma Mansour",Female,37,Consumer,United States,IL,Chicago,60601
+CUST-0118,"Mariam Nasser",Male,31,Consumer,United Kingdom,Greater Manchester,Manchester,M1 1AE
+CUST-0119,"Robert Clark",Female,66,Corporate,Germany,Berlin,Berlin,10115
+CUST-0120,"Benjamin El-Sayed",Male,64,Corporate,Germany,Berlin,Berlin,10115
+CUST-0121,"Khaled Jones",Female,27,Corporate,United States,IL,Chicago,60601
+CUST-0122,"Zainab Ghanem",Male,56,Home Office,United States,TX,Houston,77001
+CUST-0123,"Benjamin Smith",Female,51,Consumer,United States,IL,Chicago,60601
+CUST-0124,"David Miller",Male,59,Consumer,Saudi Arabia,Riyadh,Riyadh,12211
+CUST-0125,"John Thomas",Female,30,Corporate,Germany,Bavaria,Munich,80331
+CUST-0126,"Ali Khoury",Male,40,Consumer,United Arab Emirates,Dubai,Dubai,
+CUST-0127,"Sara Jackson",Female,36,Consumer,United States,IL,Chicago,60601
+CUST-0128,"Chloe Jones",Male,70,Consumer,United States,CA,Los Angeles,90001
+CUST-0129,"William Brown",Female,57,Corporate,United States,IL,Chicago,60601
+CUST-0130,"David Jones",Male,22,Corporate,United Kingdom,Greater Manchester,Manchester,M1 1AE
+CUST-0131,"David Taylor",Female,53,Consumer,United States,NY,New York,10001
+CUST-0132,"Mia Ghanem",Male,60,Home Office,United Kingdom,Greater Manchester,Manchester,M1 1AE
+CUST-0133,"Daniel Al-Fassi",Female,66,Corporate,United States,CA,Los Angeles,90001
+CUST-0134,"Youssef Jackson",Male,53,Home Office,United Kingdom,Greater Manchester,Manchester,M1 1AE
+CUST-0135,"Mariam Wilson",Female,60,Corporate,United States,TX,Houston,77001
+CUST-0136,"Youssef Ghanem",Male,57,Home Office,United Arab Emirates,Abu Dhabi,Abu Dhabi,
+CUST-0137,"Sara Nasser",Female,65,Home Office,Germany,Bavaria,Munich,80331
+CUST-0138,"Benjamin Al-Fassi",Male,47,Corporate,United States,IL,Chicago,60601
+CUST-0139,"Mohamed El-Sayed",Female,66,Corporate,United States,TX,Houston,77001
+CUST-0140,"Benjamin Thomas",Male,59,Consumer,Saudi Arabia,Riyadh,Riyadh,12211
+CUST-0141,"Olivia Wilson",Female,44,Consumer,Germany,Bavaria,Munich,80331
+CUST-0142,"Ahmed El-Sayed",Male,26,Consumer,United States,TX,Houston,77001
+CUST-0143,"Lina Ghanem",Female,23,Home Office,United States,CA,Los Angeles,90001
+CUST-0144,"Benjamin Wilson",Male,37,Corporate,United Arab Emirates,Dubai,Dubai,
+CUST-0145,"Mia Wilson",Female,52,Consumer,United Kingdom,England,London,EC1A
+CUST-0146,"Mohamed Martin",Male,51,Corporate,United States,NY,New York,10001
+CUST-0147,"Mohamed Miller",Female,33,Corporate,Germany,Berlin,Berlin,10115
+CUST-0148,"William Harris",Male,21,Home Office,United States,NY,New York,10001
+CUST-0149,"Mia Mansour",Female,36,Consumer,United Kingdom,Greater Manchester,Manchester,M1 1AE
+CUST-0150,"David Al-Ghamdi",Male,40,Corporate,United States,CA,Los Angeles,90001
+CUST-0151,"Khaled Johnson",Female,50,Consumer,United Kingdom,England,London,EC1A
+CUST-0152,"Emily Smith",Male,57,Consumer,United States,TX,Houston,77001
+CUST-0153,"Lina Clark",Female,44,Corporate,United States,TX,Houston,77001
+CUST-0154,"John Jones",Male,42,Corporate,United States,CA,Los Angeles,90001
+CUST-0155,"John Al-Otaibi",Female,32,Corporate,United States,IL,Chicago,60601
+CUST-0156,"Robert Taylor",Male,47,Consumer,United States,NY,New York,10001
+CUST-0157,"Olivia Clark",Female,26,Corporate,United Kingdom,England,London,EC1A
+CUST-0158,"William Williams",Male,64,Corporate,Germany,Bavaria,Munich,80331
+CUST-0159,"Nour Brown",Female,62,Consumer,United States,NY,New York,10001
+CUST-0160,"Layla Al-Ghamdi",Male,63,Consumer,United States,CA,Los Angeles,90001
+CUST-0161,"Layla Johnson",Female,50,Consumer,United States,TX,Houston,77001
+CUST-0162,"Omar Jackson",Male,32,Corporate,United States,NY,New York,10001
+CUST-0163,"Emily Jackson",Female,57,Home Office,United States,IL,Chicago,60601
+CUST-0164,"Sophia Haddad",Male,42,Home Office,Jordan,Amman,Amman,11181
+CUST-0165,"Khaled El-Sayed",Female,68,Corporate,United States,CA,Los Angeles,90001
+CUST-0166,"Zainab Martin",Male,33,Corporate,Saudi Arabia,Riyadh,Riyadh,12211
+CUST-0167,"Hassan Miller",Female,51,Home Office,Saudi Arabia,Riyadh,Riyadh,12211
+CUST-0168,"Alexander Anderson",Male,63,Home Office,United States,CA,Los Angeles,90001
+CUST-0169,"Emma Jones",Female,25,Home Office,Saudi Arabia,Riyadh,Riyadh,12211
+CUST-0170,"Mia Martin",Male,58,Home Office,Germany,Bavaria,Munich,80331
+CUST-0171,"Alexander Al-Fassi",Female,51,Home Office,United Kingdom,Greater Manchester,Manchester,M1 1AE
+CUST-0172,"Chloe Davis",Male,61,Consumer,United States,IL,Chicago,60601
+CUST-0173,"James Al-Ghamdi",Female,62,Corporate,United States,CA,Los Angeles,90001
+CUST-0174,"William Nasser",Male,57,Home Office,United States,TX,Houston,77001
+CUST-0175,"Sara Haddad",Female,42,Corporate,United Kingdom,England,London,EC1A
+CUST-0176,"Olivia Al-Otaibi",Male,42,Home Office,United Arab Emirates,Dubai,Dubai,
+CUST-0177,"Alexander Johnson",Female,59,Corporate,Jordan,Amman,Amman,11181
+CUST-0178,"Emily Thomas",Male,40,Corporate,United States,IL,Chicago,60601
+CUST-0179,"Khaled White",Female,47,Corporate,United States,IL,Chicago,60601
+CUST-0180,"Khaled Miller",Male,46,Corporate,United States,NY,New York,10001
+CUST-0181,"Sara Al-Fassi",Female,59,Consumer,United Arab Emirates,Abu Dhabi,Abu Dhabi,
+CUST-0182,"Alexander Ghanem",Male,35,Home Office,United Arab Emirates,Abu Dhabi,Abu Dhabi,
+CUST-0183,"James Smith",Female,33,Consumer,Jordan,Amman,Amman,11181
+CUST-0184,"Sara Al-Fassi",Male,49,Home Office,Germany,Berlin,Berlin,10115
+CUST-0185,"Lina Smith",Female,52,Consumer,United States,NY,New York,10001
+CUST-0186,"Nour Anderson",Male,29,Corporate,United Arab Emirates,Dubai,Dubai,
+CUST-0187,"Sara Brown",Female,50,Home Office,United Kingdom,Greater Manchester,Manchester,M1 1AE
+CUST-0188,"Emily Mansour",Male,45,Consumer,United Arab Emirates,Dubai,Dubai,
+CUST-0189,"Ali El-Sayed",Female,45,Consumer,Germany,Berlin,Berlin,10115
+CUST-0190,"Alexander Khoury",Male,45,Corporate,United States,CA,Los Angeles,90001
+CUST-0191,"Emma Miller",Female,35,Home Office,United States,TX,Houston,77001
+CUST-0192,"William Haddad",Male,38,Consumer,United Arab Emirates,Dubai,Dubai,
+CUST-0193,"David Taylor",Female,35,Home Office,United States,CA,Los Angeles,90001
+CUST-0194,"William Williams",Male,27,Consumer,United States,IL,Chicago,60601
+CUST-0195,"William Brown",Female,31,Home Office,Saudi Arabia,Riyadh,Riyadh,12211
+CUST-0196,"Ali Clark",Male,66,Home Office,Germany,Berlin,Berlin,10115
+CUST-0197,"Tarek Wilson",Female,63,Consumer,United States,IL,Chicago,60601
+CUST-0198,"Hassan Smith",Male,22,Corporate,United States,TX,Houston,77001
+CUST-0199,"John El-Sayed",Female,35,Home Office,United States,CA,Los Angeles,90001
+CUST-0200,"Fatima Thomas",Male,49,Corporate,United Arab Emirates,Abu Dhabi,Abu Dhabi,
+CUST-0201,"William Anderson",Female,70,Consumer,United States,NY,New York,10001
+CUST-0202,"Robert Harris",Male,57,Corporate,United States,CA,Los Angeles,90001
+CUST-0203,"Fatima Johnson",Female,39,Consumer,United States,TX,Houston,77001
+CUST-0204,"Tarek Williams",Male,65,Home Office,Saudi Arabia,Riyadh,Riyadh,12211
+CUST-0205,"Youssef Ghanem",Female,68,Corporate,Germany,Berlin,Berlin,10115
+CUST-0206,"Emma Thomas",Male,41,Consumer,Jordan,Amman,Amman,11181
+CUST-0207,"David Harris",Female,64,Corporate,United States,NY,New York,10001
+CUST-0208,"Khaled Haddad",Male,23,Home Office,United States,IL,Chicago,60601
+CUST-0209,"Ahmed Jones",Female,65,Home Office,Jordan,Amman,Amman,11181
+CUST-0210,"Khaled Khoury",Male,58,Consumer,United States,TX,Houston,77001
+CUST-0211,"Emma Mansour",Female,28,Home Office,United States,IL,Chicago,60601
+CUST-0212,"Jessica El-Sayed",Male,70,Corporate,United Kingdom,Greater Manchester,Manchester,M1 1AE
+CUST-0213,"Robert Clark",Female,29,Consumer,Saudi Arabia,Riyadh,Riyadh,12211
+CUST-0214,"David Smith",Male,32,Corporate,United Kingdom,England,London,EC1A
+CUST-0215,"Emily Ghanem",Female,50,Consumer,United States,CA,Los Angeles,90001
+CUST-0216,"Daniel Martin",Male,42,Consumer,United Arab Emirates,Abu Dhabi,Abu Dhabi,
+CUST-0217,"David Mansour",Female,32,Consumer,United Arab Emirates,Dubai,Dubai,
+CUST-0218,"Khaled Wilson",Male,64,Corporate,United States,NY,New York,10001
+CUST-0219,"James Mansour",Female,68,Corporate,Jordan,Amman,Amman,11181
+CUST-0220,"Ali Jackson",Male,39,Home Office,United States,TX,Houston,77001
+CUST-0221,"Hassan Haddad",Female,68,Consumer,United States,TX,Houston,77001
+CUST-0222,"Omar Al-Ghamdi",Male,65,Consumer,Germany,Berlin,Berlin,10115
+CUST-0223,"Sara Williams",Female,33,Consumer,United Arab Emirates,Dubai,Dubai,
+CUST-0224,"Sophia Haddad",Male,24,Home Office,United Kingdom,Greater Manchester,Manchester,M1 1AE
+CUST-0225,"Robert Taylor",Female,58,Home Office,United States,NY,New York,10001
+CUST-0226,"John Williams",Male,31,Corporate,United States,CA,Los Angeles,90001
+CUST-0227,"David Thomas",Female,69,Consumer,United States,CA,Los Angeles,90001
+CUST-0228,"John Harris",Male,45,Consumer,United Kingdom,England,London,EC1A
+CUST-0229,"Ali Davis",Female,64,Consumer,Saudi Arabia,Riyadh,Riyadh,12211
+CUST-0230,"Zainab Martin",Male,61,Consumer,Germany,Bavaria,Munich,80331
+CUST-0231,"Youssef Al-Fassi",Female,50,Corporate,Jordan,Amman,Amman,11181
+CUST-0232,"James Mansour",Male,61,Consumer,United Arab Emirates,Abu Dhabi,Abu Dhabi,
+CUST-0233,"Lina Mansour",Female,65,Consumer,United Kingdom,England,London,EC1A
+CUST-0234,"Chloe Jackson",Male,67,Home Office,United States,NY,New York,10001
+CUST-0235,"Ali Clark",Female,58,Home Office,Germany,Berlin,Berlin,10115
+CUST-0236,"Omar Smith",Male,29,Home Office,United States,NY,New York,10001
+CUST-0237,"Khaled Al-Fassi",Female,52,Consumer,Saudi Arabia,Riyadh,Riyadh,12211
+CUST-0238,"Sara Thomas",Male,67,Home Office,United Arab Emirates,Dubai,Dubai,
+CUST-0239,"Emma El-Sayed",Female,55,Corporate,United Arab Emirates,Dubai,Dubai,
+CUST-0240,"Alexander Jones",Male,42,Home Office,Germany,Berlin,Berlin,10115
+CUST-0241,"James Harris",Female,53,Home Office,United Arab Emirates,Dubai,Dubai,
+CUST-0242,"Olivia Williams",Male,64,Home Office,United States,TX,Houston,77001
+CUST-0243,"Omar Williams",Female,23,Home Office,United States,IL,Chicago,60601
+CUST-0244,"Emily Jones",Male,26,Consumer,Germany,Berlin,Berlin,10115
+CUST-0245,"Sara Davis",Female,49,Home Office,United Arab Emirates,Dubai,Dubai,
+CUST-0246,"Daniel Smith",Male,61,Corporate,Germany,Berlin,Berlin,10115
+CUST-0247,"Benjamin Brown",Female,53,Corporate,Jordan,Amman,Amman,11181
+CUST-0248,"Tarek Jackson",Male,52,Consumer,United Arab Emirates,Abu Dhabi,Abu Dhabi,
+CUST-0249,"Daniel Ghanem",Female,37,Corporate,Saudi Arabia,Riyadh,Riyadh,12211
+CUST-0250,"Nour El-Sayed",Male,36,Home Office,United Arab Emirates,Dubai,Dubai,

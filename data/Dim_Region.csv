@@ -1,0 +1,9 @@
+RegionID,RegionName,Country,RegionalManager
+R101,North America - East,United States,Sarah Jenkins
+R102,North America - West,United States,Michael Chang
+R103,North America - Central,United States,David Ross
+R104,North America - South,United States,Elena Rodriguez
+R105,Europe - UK & Ireland,United Kingdom,James Wilson
+R106,Europe - Central,Germany,Hans Mueller
+R107,Middle East - GCC,United Arab Emirates,Ahmed Al-Mansoor
+R108,Middle East - Levant,Jordan,Rania Haddad
